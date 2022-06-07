@@ -1,11 +1,3 @@
-Tugas KeLompok WP2 : Membuat CRUD Data Siswa 
-NAMA KELOMPOK : - SANDI DARMA (15200350) 
-                - QODRI NURFALAH (15200270) 
-                - RIO ADITYA U (15200336) 
-                - SYAHIR MUIZAL (15200225)
-
--- PHP 7.4
-
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
